@@ -1,2 +1,2 @@
-# uber-ride-business-analytics
+# Uber-Ride-Business-Analytics
 Power BI dashboard analyzing Uber trip data to uncover insights across bookings, revenue, customers, vehicles, cancellations, payment methods, and locations.
